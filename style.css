@@ -77,7 +77,6 @@ body {
     max-width: 1350px;
     height: 36vw;
     max-height: 550px;
-    border-radius: 1vw 1vw 0.5vw 0.5vw;
     overflow-x: hidden;
     overflow-y: auto;
 }
