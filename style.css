@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Minecraft";
-    src: url("asset/Minecraft.ttf");
+    src: url("https://roimee6.github.io/asset/Minecraft.ttf");
 }
 
 body {
@@ -165,7 +165,7 @@ input:focus {
     left: -100%;
     height: 300%;
     width: 300%;
-    background: url("asset/bg.jpg");
+    background: url("https://roimee6.github.io/asset/bg.jpg");
     background-size: cover;
     animation: bg 15s ease-in-out infinite alternate;
 }
