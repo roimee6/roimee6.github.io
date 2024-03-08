@@ -164,7 +164,7 @@ input:focus {
     left: -100%;
     height: 300%;
     width: 300%;
-    background: url("https://roimee6.github.io/asset/bg.jpg");
+    background: url("https://roimee6.github.io/konsole/asset/bg.jpg");
     background-size: cover;
     animation: bg 15s ease-in-out infinite alternate;
 }
