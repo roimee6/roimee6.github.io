@@ -1,0 +1,43 @@
+html, body {
+    background-color: #eee;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#dropZone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #353434;
+    height: 100%;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+#segmentsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.segmentWrapper {
+    margin: 3px;
+    text-align: center;
+}
+
+.segmentLabel {
+    display: block;
+    margin-bottom: 1px;
+}
+
+.segment {
+    border: 1px solid #ddd;
+}
+
+input[type="file"] {
+    display: none;
+}
